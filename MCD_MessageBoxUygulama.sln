@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_MessageBoxUygulama", "MCD_MessageBoxUygulama\MCD_MessageBoxUygulama.csproj", "{8A2F3B8B-0BA3-408A-ACB5-34DD2A795D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A2F3B8B-0BA3-408A-ACB5-34DD2A795D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2F3B8B-0BA3-408A-ACB5-34DD2A795D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2F3B8B-0BA3-408A-ACB5-34DD2A795D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2F3B8B-0BA3-408A-ACB5-34DD2A795D05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2F578E8-AD18-49B3-9512-0932C53896F7}
+	EndGlobalSection
+EndGlobal
